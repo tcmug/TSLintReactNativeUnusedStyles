@@ -1,0 +1,15 @@
+{
+  "name": "tslint-react-native-unused-styles",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "tslint-react-native-unused-styles.json",
+  "dependencies": {
+    "@phenomnomnominal/tsquery": "^3.0.0",
+    "@types/node": "^11.10.4",
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}

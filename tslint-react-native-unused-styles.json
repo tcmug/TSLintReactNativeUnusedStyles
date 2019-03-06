@@ -1,0 +1,6 @@
+{
+  "rulesDirectory": "./src",
+  "rules": {
+    "react-native-unused-styles": true
+  }
+}
