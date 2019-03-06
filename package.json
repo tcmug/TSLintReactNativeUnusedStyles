@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "license": "MIT",
   "main": "tslint-react-native-unused-styles.json",
+  "peerDependencies": {
+    "tslint": "^5.1.0",
+    "typescript": "^3"
+  },
   "dependencies": {
-    "@phenomnomnominal/tsquery": "^3.0.0",
-    "@types/node": "^11.10.4",
-    "tslint": "^5.13.1",
-    "typescript": "^3.3.3333"
+    "@phenomnomnominal/tsquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11"
   },
   "scripts": {
     "build": "tsc"
